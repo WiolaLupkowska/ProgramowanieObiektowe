@@ -1,0 +1,5 @@
+dana klasa może dziedziczyć tylko po jednej klasie,
+a może implementować wiele interfejsów.
+Druga rzecz, to w klasie abstrakcyjnej można
+definiować ciała metod, a w interfejsach występują
+tylko sygnatury metod
